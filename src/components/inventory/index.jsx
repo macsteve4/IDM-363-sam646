@@ -1,0 +1,3 @@
+proptype
+
+function Inventory({ramen})
